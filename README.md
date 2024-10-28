@@ -1,3 +1,3 @@
 # ohtuvarasto
 
-![GHA Workflow badge] (https://github.com/kaabero/ohtuvarasto/workflows/CI/badge.svg)
+![example workflow](https://github.com/Kaabero/ohtuvarasto/workflows/CI/badge.svg)
