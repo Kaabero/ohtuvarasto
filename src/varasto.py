@@ -1,6 +1,5 @@
 class Varasto:
-    def __init__(self, tilavuus, alku_saldo = 0, workflow_testaus=0):
-        self.testaus=workflow_testaus
+    def __init__(self, tilavuus, alku_saldo = 0):
 
         if tilavuus > 0.0:
             self.tilavuus = tilavuus
